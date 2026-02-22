@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://covidfinishline.pages.dev/sitemap.xml
+Sitemap: https://covidfinishline.com/sitemap.xml
